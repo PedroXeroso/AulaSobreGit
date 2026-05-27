@@ -7,7 +7,9 @@ Este repositório tem total foco em testar e aprender as funções do GitHub. Tu
 **Objetivos do Repositório**
 
 ° Praticar comandos essenciais do Git
+
 ° Entender o fluxo de trabalho (Workflow) do GitHub
+
 ° Testar ferramentas visuais e configurações da plataforma
 
 
